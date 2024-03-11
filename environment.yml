@@ -1,0 +1,20 @@
+name: vid
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pyyaml
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - scipy
+  - seaborn
+  - statsmodels
+  - ipykernel
+  - opencv
+  - ffmpeg
+  - scikit-learn
+  - scikit-image
